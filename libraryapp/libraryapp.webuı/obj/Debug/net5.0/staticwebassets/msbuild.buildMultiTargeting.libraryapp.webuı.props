@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\libraryapp.webuı.props" />
+</Project>
